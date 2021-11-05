@@ -6,6 +6,8 @@ PyTorch implementation of [Video Abnormal Event Detection Based on Optical Flow 
 * Visual Studio Code
 * Docker 20.10
 * NVIDIA Driver 470
+* CUDA 11.1
+* cuDNN 8
 * Python 3.8
 * PyTorch 1.8.1
 * OpenCV 4.5
