@@ -1,6 +1,4 @@
-# Video-Abnormal-Event-Detection-Based-on-Optical-Flow-and-3DCNN
-
-PyTorch implementation of [Video Abnormal Event Detection Based on Optical Flow and 3DCNN](https://ui.adsabs.harvard.edu/link_gateway/2021JPhCS1881b2022L/doi:10.1088/1742-6596/1881/2/022022)
+# Abnormal-Event-Detection-in-video-sequence-based-on-3DCNN
 
 ## Requirements
 * Visual Studio Code
